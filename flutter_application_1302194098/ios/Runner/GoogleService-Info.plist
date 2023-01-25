@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>372429840213-oa24svle0l7erj6g6fg8e74a5er1f2le.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.372429840213-oa24svle0l7erj6g6fg8e74a5er1f2le</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAXyOnsW_HVK2zYzn2vaw0OTbdJod3mTSA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>372429840213</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.flutterApplication1302194098</string>
+	<key>PROJECT_ID</key>
+	<string>tes-asprak-4ab87</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tes-asprak-4ab87.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:372429840213:ios:0695040c82765eb4add9dc</string>
+	<key>DATABASE_URL</key>
+	<string>https://tes-asprak-4ab87-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>

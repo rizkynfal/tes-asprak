@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "372429840213",
+    "firebase_url": "https://tes-asprak-4ab87-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tes-asprak-4ab87",
+    "storage_bucket": "tes-asprak-4ab87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372429840213:android:fa076d013c713d21add9dc",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1302194098"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372429840213-m3v2aijb610tuqd3ic6j0777bhckchgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAunhb0wWc8zOZZhs-MARCDU46VEFi3Ze8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372429840213-m3v2aijb610tuqd3ic6j0777bhckchgt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
